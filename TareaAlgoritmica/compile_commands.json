@@ -1,0 +1,57 @@
+[{
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioG2\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioG2",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioG2\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioG2\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioF4\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioF4",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioF4\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioF4\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioF2\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioF2",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioF2\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioF2\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioE4\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioE4",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioE4\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioE4\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioE3\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioE3",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioE3\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioE3\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioD2\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioD2",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioD2\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioD2\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioD4\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioD4",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioD4\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicioD4\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio5c\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio5c",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio5c\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio5c\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio6b\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio6b",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio6b\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio6b\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio4c\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio4c",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio4c\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio4c\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio4a\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio4a",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio4a\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio4a\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio3a\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio3a",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio3a\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio3a\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio5b\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio5b",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio5b\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio5b\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio2a\\main.cpp",
+  "directory": "D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio2a",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio2a\\main.cpp -o D:\\Ernesto\\C++\\proyectos\\TareaAlgoritmica\\ejercicio2a\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

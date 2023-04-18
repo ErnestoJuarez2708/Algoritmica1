@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="TareaAlgoritmica" Database="" Version="10000">
+  <Project Name="ejercicioA2" Path="ejercicio2a/ejercicio2a.project" Active="No"/>
+  <Project Name="ejercicioA3" Path="ejercicio3a/ejercicio3a.project" Active="No"/>
+  <Project Name="ejercicioA4" Path="ejercicio4a/ejercicio4a.project" Active="No"/>
+  <Project Name="ejercicioB5" Path="ejercicio5b/ejercicio5b.project" Active="No"/>
+  <Project Name="ejercicioB6" Path="ejercicio6b/ejercicio6b.project" Active="No"/>
+  <Project Name="ejercicioC4" Path="ejercicio4c/ejercicio4c.project" Active="No"/>
+  <Project Name="ejercicioC5" Path="ejercicio5c/ejercicio5c.project" Active="No"/>
+  <Project Name="ejercicioD2" Path="ejercicioD4/ejercicioD4.project" Active="No"/>
+  <Project Name="ejercicioD4" Path="ejercicioD4/ejercicioD4.project" Active="No"/>
+  <Project Name="ejercicioD2" Path="ejercicioD2/ejercicioD2.project" Active="No"/>
+  <Project Name="ejercicioE3" Path="ejercicioE3/ejercicioE3.project" Active="No"/>
+  <Project Name="ejercicioE4" Path="ejercicioE4/ejercicioE4.project" Active="No"/>
+  <Project Name="ejercicioF2" Path="ejercicioF2/ejercicioF2.project" Active="No"/>
+  <Project Name="ejercicioF4" Path="ejercicioF4/ejercicioF4.project" Active="No"/>
+  <Project Name="ejercicioG2" Path="ejercicioG2/ejercicioG2.project" Active="No"/>
+  <Project Name="ejercicioG3" Path="ejercicioG3/ejercicioG3.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="ejercicioA2" ConfigName="Debug"/>
+      <Project Name="ejercicioA3" ConfigName="Debug"/>
+      <Project Name="ejercicioA4" ConfigName="Debug"/>
+      <Project Name="ejercicioB5" ConfigName="Debug"/>
+      <Project Name="ejercicioB6" ConfigName="Debug"/>
+      <Project Name="ejercicioC4" ConfigName="Debug"/>
+      <Project Name="ejercicioC5" ConfigName="Debug"/>
+      <Project Name="ejercicioD2" ConfigName="Debug"/>
+      <Project Name="ejercicioD4" ConfigName="Debug"/>
+      <Project Name="ejercicioD2" ConfigName="Debug"/>
+      <Project Name="ejercicioE3" ConfigName="Debug"/>
+      <Project Name="ejercicioE4" ConfigName="Debug"/>
+      <Project Name="ejercicioF2" ConfigName="Debug"/>
+      <Project Name="ejercicioF4" ConfigName="Debug"/>
+      <Project Name="ejercicioG2" ConfigName="Debug"/>
+      <Project Name="ejercicioG3" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="ejercicioA2" ConfigName="Release"/>
+      <Project Name="ejercicioA3" ConfigName="Release"/>
+      <Project Name="ejercicioA4" ConfigName="Release"/>
+      <Project Name="ejercicioB5" ConfigName="Release"/>
+      <Project Name="ejercicioB6" ConfigName="Release"/>
+      <Project Name="ejercicioC4" ConfigName="Release"/>
+      <Project Name="ejercicioC5" ConfigName="Release"/>
+      <Project Name="ejercicioD2" ConfigName="Release"/>
+      <Project Name="ejercicioD4" ConfigName="Release"/>
+      <Project Name="ejercicioD2" ConfigName="Release"/>
+      <Project Name="ejercicioE3" ConfigName="Release"/>
+      <Project Name="ejercicioE4" ConfigName="Release"/>
+      <Project Name="ejercicioF2" ConfigName="Release"/>
+      <Project Name="ejercicioF4" ConfigName="Release"/>
+      <Project Name="ejercicioG2" ConfigName="Release"/>
+      <Project Name="ejercicioG3" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
